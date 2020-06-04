@@ -1,1 +1,1 @@
-web: gunicorn nedium-app.wsgi --log-file -
+web: gunicorn nedium_project.wsgi --log-file -
