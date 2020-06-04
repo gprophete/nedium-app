@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,9 +14,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f6dc2f-4a50-4bec-b2c2-3660f3062a09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/garlyprophete.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/garlyprophete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedium_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedium_app/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedium_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nedium-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nedium-app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedium_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/nedium_app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedium_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/nedium_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedium_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/nedium_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedium_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/nedium_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedium_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nedium_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +36,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cpneHevo7i5z9m1QLS2w0zEQWG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -58,11 +74,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1666" y="89" key="SettingsEditor" timestamp="1591234628946">
       <screen x="1440" y="23" width="1600" height="877" />
     </state>
     <state x="1666" y="89" key="SettingsEditor/1440.23.1600.877/0.23.1440.877@1440.23.1600.877" timestamp="1591234628946" />
+    <state x="1923" y="211" width="670" height="676" key="search.everywhere.popup" timestamp="1591282504435">
+      <screen x="1440" y="23" width="1600" height="877" />
+    </state>
+    <state x="1923" y="211" width="670" height="676" key="search.everywhere.popup/1440.23.1600.877/0.23.1440.877@1440.23.1600.877" timestamp="1591282504435" />
   </component>
 </project>
